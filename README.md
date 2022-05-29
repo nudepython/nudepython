@@ -1,4 +1,4 @@
-[![NudePython's GitHub Banner](./assets/GitHubHeader.png)]([https://www.instagram.com/nudepython/])
+[![NudePython's GitHub Banner](GitHubHeader.png)]([https://www.instagram.com/nudepython/])
 
 
 - 👋 Hi, I’m @nudepython
