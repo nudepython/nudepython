@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nudepython
 - 👀 I’m interested in PYTHON
-- 📫 How to reach me [...](https://www.instagram.com/nudepython/)
+- 📫 How to reach me [instagram](https://www.instagram.com/nudepython/)
 
 <!---
 nudepython/nudepython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
